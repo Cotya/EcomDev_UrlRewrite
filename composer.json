@@ -2,8 +2,8 @@
     "name": "ecomdev/ecomdev_urlrewrite",
     "license": "OSL-3.0",
     "type": "magento-module",
-    "description": "Alternative Url Rewrite Implementation",
-    "homepage": "http://shop.ecomdev.org/url-rewrite-indexer.html",
+    "description": "Alternative Url Rewrite Implementation (former maintained from EcomDev, till they stopped to provide support)",
+    "homepage": "https://github.com/Cotya/EcomDev_UrlRewrite",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
