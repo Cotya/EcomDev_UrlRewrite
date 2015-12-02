@@ -7,7 +7,7 @@
     "require": {
     },
     "require-dev": {
-        "ecomdev/mage-ci": "dev-master"
+        "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
     },
     "suggest": {
         "magento-hackathon/magento-composer-installer": ">=3.0"
