@@ -5,10 +5,12 @@
     "description": "Alternative Url Rewrite Implementation (former maintained from EcomDev, till they stopped to provide support)",
     "homepage": "https://github.com/Cotya/EcomDev_UrlRewrite",
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
     },
     "require-dev": {
         "ecomdev/mage-ci": "dev-master"
+    },
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": ">=3.0"
     },
     "authors":[
         {
